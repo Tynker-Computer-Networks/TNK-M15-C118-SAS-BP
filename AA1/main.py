@@ -60,6 +60,11 @@ class EmailSenderApp(Tk):
             # Clear the text input of recipient_email_entry 
     
    
+    # Declare update_listbox function to update list box.
+
+
+    
+
     def send_email(self):
         threading.Thread(target=self.send_single_email).start()
 
@@ -97,5 +102,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
