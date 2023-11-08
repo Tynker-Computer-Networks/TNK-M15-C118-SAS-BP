@@ -43,6 +43,7 @@ class EmailSenderApp(Tk):
 
         # Create a Label with the Attached Files.
 
+        # Call send_single_email function on button click
         self.send_button = Button(self.frame, text="Send Email")
         self.send_button.grid(column=1, row=9, padx=10, pady=10, columnspan=2)
 
