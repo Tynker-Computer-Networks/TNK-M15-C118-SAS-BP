@@ -2,7 +2,7 @@ Send the Email
 ===========================
 
 
-In this activity, you will learn to add the functionality to send the die email when the "Send Email" button is clicked.
+In this activity, you will learn to add the functionality to send the email when the "Send Email" button is clicked.
 
 
 <img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10905315/pasted-from-clipboard.png" width = "480" height = "320">
