@@ -7,7 +7,7 @@ In this activity, you will activate the 2-step google authentication on google a
 
 
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10899396/118_oucome.gif" width = "180" height = "320">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10899396/118_oucome.gif" width = "50%" height = "auto">
 
 
 Follow the given steps to complete this activity:
